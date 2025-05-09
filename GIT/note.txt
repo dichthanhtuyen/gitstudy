@@ -1,0 +1,12 @@
+mở terminal: ctrl + shift + `
+câu lệnh git cơ bản
+repository: (kho chứa dữ liệu của git), 2 loại
+
+1. local repo: ở trên máy
+2. remot repo: kho online
+
+file trong máy | vùng nhớ tạm | local repo | remote repo
+
+git init:tạo repository:ở local
+git add .:đẩy tất cả các file vào trong một vùng nhớ
+git commit -m "...": đẩy từ vùng nhớ tạm t hời vào local repo, có nhiệm vụ là đánh dấu mốc lịch sử tại đây
